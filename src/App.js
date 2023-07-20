@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React in a new way and deploy to aws
+          Learn React in a new way Aryan
         </a>
       </header>
     </div>
